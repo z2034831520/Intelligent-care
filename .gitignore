@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local env and secrets
+.env
+.env.*
+!.env.example
+
+# ROS2 / build outputs
+build/
+install/
+log/
+
+# Runtime outputs
+logs/
+tmp/
+evidence/
+*.jsonl
+
+# Local service artifacts
+rdk_x5_demo/notebook_vlm_service/feishu_command_bridge.log
+
+# Archives
+*.zip
+*.tar.gz
+*.tgz
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db

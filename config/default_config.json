@@ -1,0 +1,22 @@
+{
+  "site_name": "smart-care-edge-demo",
+  "dashboard_port": 8080,
+  "database_path": "runtime/smart_care.db",
+  "event_log_limit": 100,
+  "night_hours": [22, 6],
+  "simulated": true,
+  "remote_notifications_enabled": false,
+  "camera": {
+    "provider": "snapshot-proxy",
+    "source_name": "ezviz-helper"
+  },
+  "thresholds": {
+    "door_open_night_attention_seconds": 5,
+    "presence_attention_seconds": 10,
+    "smoke_alarm_confidence": 0.7
+  },
+  "actions": {
+    "warning": ["snapshot", "status_page", "local_log"],
+    "alarm": ["buzzer", "light", "snapshot", "local_log", "remote_notify"]
+  }
+}
