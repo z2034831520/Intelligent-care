@@ -3,7 +3,8 @@
 ## 图片演示
 <img width="1552" height="1352" alt="1777645949314" src="https://github.com/user-attachments/assets/8480ca68-41d7-4559-abdb-ff3242db7e3e" />
 
-<img width="777" height="705" alt="Snipaste_2026-05-01_22-30-04" src="https://github.com/user-attachments/assets/049cefe3-d85c-4f3f-9fd7-aee79d2092f2" />
+<img width="801" height="774" alt="Snipaste_2026-05-01_22-38-06" src="https://github.com/user-attachments/assets/af6e0b61-28ea-4058-a864-580083785c93" />
+
 
 <img width="1608" height="1476" alt="1777646151180" src="https://github.com/user-attachments/assets/6ebe7b03-bb0d-4fc4-83e8-8fa07f2bc5f5" />
 
