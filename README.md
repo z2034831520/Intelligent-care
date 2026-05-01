@@ -1,10 +1,9 @@
 #  智能看护系统简介
 
 ## 图片演示
-<img width="1552" height="1352" alt="1777645949314" src="https://github.com/user-attachments/assets/8480ca68-41d7-4559-abdb-ff3242db7e3e" />
+<img width="1601" height="1548" alt="1777646402781" src="https://github.com/user-attachments/assets/af9ed747-fb7f-4c23-80c2-8c4720132872" />
 
 <img width="801" height="774" alt="Snipaste_2026-05-01_22-38-06" src="https://github.com/user-attachments/assets/af6e0b61-28ea-4058-a864-580083785c93" />
-
 
 <img width="1608" height="1476" alt="1777646151180" src="https://github.com/user-attachments/assets/6ebe7b03-bb0d-4fc4-83e8-8fa07f2bc5f5" />
 
